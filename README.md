@@ -20,4 +20,18 @@
 
 
 ### Awesome RedTeam Books
-TODO
+|Book|Author|Link|
+|----------------------|--------------------|--------------------
+|Cybersecurity Attacks – Red Team Strategies|Johann Rehberger|[Book](https://www.amazon.com/dp/1838828869)|
+|Red Team Development and Operations|Joe Vest|[Book](https://www.amazon.com/dp/B083XVG633)|
+|Hands-On Red Team Tactics|Himanshu Sharma|[Book](https://www.amazon.com/dp/1788995236)|
+|Tribe of Hackers Red Team|Marcus J. Carey|[Book](https://www.amazon.com/dp/1119643325)|
+|Professional Red Teaming|Jacob G. Oakley|[Book](https://www.amazon.com/dp/1484243080)|
+|The Hacker Playbook 3|Peter Kim|[Book](https://www.amazon.com/dp/1980901759)|
+|Rtfm: Red Team Field Manual|Ben Clark|[Book](https://www.amazon.com/dp/1494295504)|
+
+
+### Awesome Malware analysis Books
+Malware analysis - TODO
+
+
